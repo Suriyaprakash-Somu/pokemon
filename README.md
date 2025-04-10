@@ -41,3 +41,6 @@ npm run dev
 
 - Make a beeter UI for landing page
 - Maybe add a dark mode?
+
+## Inspiration
+https://dribbble.com/shots/19201805-Daily-UI-2-Tribo-Criativa-Pok-mon
